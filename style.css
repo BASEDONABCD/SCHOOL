@@ -144,7 +144,7 @@ main {
 
 /* --- Hero Section --- */
 .hero {
-    background: linear-gradient(rgba(0, 51, 102, 0.7), rgba(0, 51, 102, 0.7)), url('../images/hero-background.jpg') no-repeat center center/cover;
+    background: url("https://www.dresden-is.de/cdn/img/Discover/Campuses/School_Campus_web.jpg");
     height: calc(100vh - var(--header-height));
     display: flex;
     align-items: center;
@@ -192,7 +192,7 @@ section {
 }
 
 .welcome-section {
-    background: url("https://www.dresden-is.de/cdn/img/Discover/Campuses/School_Campus_web.jpg");
+    background: var(--primary-color);
     text-align: center;
 }
 
