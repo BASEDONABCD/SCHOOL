@@ -195,7 +195,7 @@ section {
 }
 
 .welcome-section {
-    background: var(--primary-color);
+    background: var(--secondary-color);
     text-align: center;
 }
 
