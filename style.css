@@ -157,6 +157,9 @@ main {
 .hero-content {
     max-width: 800px;
     backdrop-filter: blur(15px);
+    padding: 30px 40px 30px 40px;
+    border: 1px solid none;
+    border-radius: 30px;
 }
 
 .hero h1 {
